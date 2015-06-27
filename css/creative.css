@@ -56,6 +56,10 @@ p {
     line-height: 1.5;
 }
 
+.contact {
+    font-size: 20px;
+}
+
 .bg-primary {
     background-color: #247C91;
 }
